@@ -1,4 +1,4 @@
-# Project 3: Web APIs & NLP
+# Project 3: Subreddit Classification with NLP
 
 ---
 
